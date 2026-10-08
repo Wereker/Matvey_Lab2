@@ -1,8 +1,8 @@
 Line 1: Lab work 2
 Line 2: Topic - Git
 Line 3: Author - Matvey
-Line 4: This line will be changed
-Line 5: This line will be deleted
+Line 4: CHANGED in branch1
 Line 6: This line will stay
 Line 7: Last line
 Line 8: added in Commit 1
+Line 9: added in branch1
