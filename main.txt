@@ -5,3 +5,4 @@ Line 4: This line will be changed
 Line 5: This line will be deleted
 Line 6: This line will stay
 Line 7: Last line
+Line 8: added in Commit 1
