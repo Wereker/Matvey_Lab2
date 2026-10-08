@@ -7,3 +7,4 @@ Line 6: This line will stay
 Line 8: added in Commit 1
 Line 10: added in master
 Line 9: added in branch1
+Line 11: change by user 2
